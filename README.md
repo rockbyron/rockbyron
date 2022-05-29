@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rockbyron
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP/Laravel
+- 🌱 I’m currently studying Java/Java Spring Boot
 
 <!---
 rockbyron/rockbyron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
